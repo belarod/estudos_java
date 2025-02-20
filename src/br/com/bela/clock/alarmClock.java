@@ -1,3 +1,4 @@
+package br.com.bela.clock; // declaração do pacote
 public class alarmClock {
     int hours;
     int minutes;
